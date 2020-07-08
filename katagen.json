@@ -1,0 +1,12 @@
+{
+  "prefix": "day_",
+  "lang": "javascript",
+  "tok": true,
+  "katas": {
+    "disemvowel-trolls": ".js",
+    "jaden-casing-strings": ".js",
+    "who-likes-it": ".js",
+    "fun-with-lists-filter": ".js",
+    "calculating-with-functions": ".js"
+  }
+}
