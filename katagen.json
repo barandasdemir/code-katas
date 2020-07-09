@@ -7,6 +7,10 @@
     "jaden-casing-strings": ".js",
     "who-likes-it": ".js",
     "fun-with-lists-filter": ".js",
-    "calculating-with-functions": ".js"
+    "calculating-with-functions": ".js",
+    "rot13-1": ".js",
+    "digital-cypher": ".js",
+    "binary-swap": ".js",
+    "obfuscation-confusion-bug-fixing-number-10": ".js"
   }
 }
