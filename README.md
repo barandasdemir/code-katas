@@ -20,3 +20,9 @@ kata links can be found in each day's readme.
 |[binary-swap](./day_01/binary-swap.js)|[obfuscation-confusion-bug-fixing-number-10](./day_01/obfuscation-confusion-bug-fixing-number-10.js)|[rot13-1](./day_01/rot13-1.js)|
 |[digital-cypher](./day_01/digital-cypher.js)|||
 
+### [day_02](./day_02)
+| 7 kyu | 6 kyu | 5 kyu | 4 kyu |
+|:-----:|:-----:|:-----:|:-----:|
+|[indexed-capitalization](./day_02/indexed-capitalization.js)|[uniq-unix-style](./day_02/uniq-unix-style.js)|[greed-is-good](./day_02/greed-is-good.js)|[twice-linear](./day_02/twice-linear.js)|
+||[reversing-a-process](./day_02/reversing-a-process.js)|||
+

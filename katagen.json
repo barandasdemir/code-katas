@@ -11,6 +11,11 @@
     "rot13-1": ".js",
     "digital-cypher": ".js",
     "binary-swap": ".js",
-    "obfuscation-confusion-bug-fixing-number-10": ".js"
+    "obfuscation-confusion-bug-fixing-number-10": ".js",
+    "twice-linear": ".js",
+    "reversing-a-process": ".js",
+    "uniq-unix-style": ".js",
+    "greed-is-good": ".js",
+    "indexed-capitalization": ".js"
   }
 }
