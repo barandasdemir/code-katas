@@ -26,3 +26,9 @@ kata links can be found in each day's readme.
 |[indexed-capitalization](./day_02/indexed-capitalization.js)|[uniq-unix-style](./day_02/uniq-unix-style.js)|[greed-is-good](./day_02/greed-is-good.js)|[twice-linear](./day_02/twice-linear.js)|
 ||[reversing-a-process](./day_02/reversing-a-process.js)|||
 
+### [day_03](./day_03)
+| 7 kyu | 6 kyu | 5 kyu |
+|:-----:|:-----:|:-----:|
+|[going-to-the-cinema](./day_03/going-to-the-cinema.js)|[casino-chips](./day_03/casino-chips.js)|[double-cola](./day_03/double-cola.js)|
+||[casino-chips](./day_03/casino-chips.js)||
+
