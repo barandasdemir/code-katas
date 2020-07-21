@@ -30,5 +30,4 @@ kata links can be found in each day's readme.
 | 7 kyu | 6 kyu | 5 kyu |
 |:-----:|:-----:|:-----:|
 |[going-to-the-cinema](./day_03/going-to-the-cinema.js)|[casino-chips](./day_03/casino-chips.js)|[double-cola](./day_03/double-cola.js)|
-||[casino-chips](./day_03/casino-chips.js)||
 
